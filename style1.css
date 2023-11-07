@@ -1,0 +1,46 @@
+h1{
+    text-align:16px;
+    color:white;
+    background-color:black;
+    
+}
+
+p{
+text-align:12px;
+}
+
+*{
+font-family:arial;
+}
+
+hr{
+height:2px;
+background-color:black;
+}
+
+h2{
+    text-align:14px;
+    background-color:black;
+    color:white;
+}
+
+
+
+table{
+    text-align:12px;
+    
+}
+
+
+ol{
+    text-align:12px;
+}
+
+h2{
+    text-align:14px;
+}
+
+ul{
+    text-align:12px;
+}
+ 
